@@ -12,11 +12,11 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31gvovr2hctsygvy65fkxlz3oxey?si=ac6346044b894ce8)
+[[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31gvovr2hctsygvy65fkxlz3oxey?si=ac6346044b894ce8)](https://open.spotify.com/user/31gvovr2hctsygvy65fkxlz3oxey?si=7692678619104af4)
 <br/>
 ---
 
-
+<p align="center">
 <br><br>
   · <a href="https://drive.google.com/file/d/1QEZOD2A36o1wfUW74cgdizu8XODOjGVE/view?usp=sharing">Resume</a>
  · 
