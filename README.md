@@ -12,7 +12,7 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
 
 ### Now Playing 🎧
 
-[[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31gvovr2hctsygvy65fkxlz3oxey?si=ac6346044b894ce8)]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31gvovr2hctsygvy65fkxlz3oxey&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31gvovr2hctsygvy65fkxlz3oxey&redirect=true)
 <br/>
 ---
 
