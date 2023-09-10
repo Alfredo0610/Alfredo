@@ -8,6 +8,15 @@
 
 <p align="center">
 Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people
+
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31gvovr2hctsygvy65fkxlz3oxey?si=ac6346044b894ce8)
+<br/>
+---
+
+
 <br><br>
   · <a href="https://drive.google.com/file/d/1QEZOD2A36o1wfUW74cgdizu8XODOjGVE/view?usp=sharing">Resume</a>
  · 
@@ -16,11 +25,6 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
 | <a href="https://gdg.community.dev/-jammu/">Linked in</a>
 <br>
 
-### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31gvovr2hctsygvy65fkxlz3oxey?si=ac6346044b894ce8)
-<br/>
----
 
  <p align="center">
  <a href="https://twitter.com/imtrilokia"><img src="https://img.shields.io/twitter/follow/imtrilokia?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
