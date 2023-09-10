@@ -15,6 +15,13 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
 <a href="https://play.google.com/store/apps/dev?id=489822770580329">Instagram</a>
 | <a href="https://gdg.community.dev/-jammu/">Linked in</a>
 <br>
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31gvovr2hctsygvy65fkxlz3oxey?si=ac6346044b894ce8)
+<br/>
+---
+
  <p align="center">
  <a href="https://twitter.com/imtrilokia"><img src="https://img.shields.io/twitter/follow/imtrilokia?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/abhndantrilokia/"><img src="https://ishields.io/badge/-Abhinandan%20Trilokia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/abandantrilokia/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
