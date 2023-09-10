@@ -9,7 +9,7 @@
 <p align="center">
 Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people
 <br><br>
-  · <a href="[https://drive.google.com/file/d/1eRxlrHlz19RXMuzFSNEDq9_6h7qfDSyU/view?usp=sharing](https://drive.google.com/file/d/1QEZOD2A36o1wfUW74cgdizu8XODOjGVE/view?usp=sharing)">Resume</a>
+  · <a href="https://drive.google.com/file/d/1QEZOD2A36o1wfUW74cgdizu8XODOjGVE/view?usp=sharing">Resume</a>
  · 
 <br>
 <a href="https://play.google.com/store/apps/dev?id=489822770580329">Instagram</a>
