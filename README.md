@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people
+Hello, I am Alfredo Rizqi Syahbana, an undergraduate student majoring in Geophysics at Gadjah Mada University. I recently graduated from SMA N 2 Purwokerto and possess strong skills in organizational management and communication. I have a keen interest in mathematics, physics, and geology, and I am highly curious about these fields
 
 
 ### Now Playing 🎧
