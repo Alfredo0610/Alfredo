@@ -21,15 +21,9 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
   · <a href="https://drive.google.com/file/d/1QEZOD2A36o1wfUW74cgdizu8XODOjGVE/view?usp=sharing">Resume</a>
  · 
 <br>
-<a href="https://play.google.com/store/apps/dev?id=489822770580329">Instagram</a>
-| <a href="https://gdg.community.dev/-jammu/">Linked in</a>
+<a href="[https://play.google.com/store/apps/dev?id=489822770580329](https://www.instagram.com/alfrdo.s/?hl=id)">Instagram</a>
+| <a href="https://www.linkedin.com/in/alfredo-rizqi-syahbana-02aa05246/">Linked in</a>
 <br>
-
-
- <p align="center">
- <a href="https://twitter.com/imtrilokia"><img src="https://img.shields.io/twitter/follow/imtrilokia?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/abhndantrilokia/"><img src="https://ishields.io/badge/-Abhinandan%20Trilokia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/abandantrilokia/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
-   <a href="https://www.reddit.com/user/Trilokia"><img src="https://img.shds.io/reddit/user-karma/combined/trilokia?style=style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
 <br>
