@@ -21,7 +21,7 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
   · <a href="https://drive.google.com/file/d/1QEZOD2A36o1wfUW74cgdizu8XODOjGVE/view?usp=sharing">Resume</a>
  · 
 <br>
-<a href="(https://www.instagram.com/alfrdo.s/?hl=id)">Instagram</a>
+<a href="https://www.instagram.com/alfrdo.s/?hl=id">Instagram</a>
 | <a href="https://www.linkedin.com/in/alfredo-rizqi-syahbana-02aa05246/">Linked in</a>
 <br>
 
