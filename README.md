@@ -50,5 +50,5 @@ Hello, I am Alfredo Rizqi Syahbana, an undergraduate student majoring in Geophys
 <br>
 
 <div align="center">
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fgold-footer&psig=AOvVaw1SZOl-WqtYOVES3dDvINLv&ust=1694500893053000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLC6k-_5oYEDFQAAAAAdAAAAABAd
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fgold-footer&psig=AOvVaw1SZOl-WqtYOVES3dDvINLv&ust=1694500893053000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLC6k-_5oYEDFQAAAAAdAAAAABAd">
 </div>
