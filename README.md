@@ -23,6 +23,8 @@ Hello, I am Alfredo Rizqi Syahbana, an undergraduate student majoring in Geophys
 
 - 🌱 I’m currently learning **everything** 🤓
 
+- 🎧 My hobby is listening to music
+
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
 - 👨‍💻 All of my projects are available at [Linkedin](https://www.linkedin.com/in/alfredo-rizqi-syahbana-02aa05246/)
