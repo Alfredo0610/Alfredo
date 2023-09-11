@@ -49,6 +49,6 @@ Hello, I am Alfredo Rizqi Syahbana, an undergraduate student majoring in Geophys
 <br>
 <br>
 
-<div align="center">
-<img src="https://png.pngtree.com/png-vector/20230324/ourmid/pngtree-dark-blue-gold-footer-free-download-vector-png-image_6666790.png"/>
+<div align="center" width="50">
+<img src="https://png.pngtree.com/png-vector/20230324/ourmid/pngtree-dark-blue-gold-footer-free-download-vector-png-image_6666790.png" alt="Bye!" width="300"/>
 </div>
