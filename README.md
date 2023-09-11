@@ -9,6 +9,26 @@
 <p align="center">
 Hello, I am Alfredo Rizqi Syahbana, an undergraduate student majoring in Geophysics at Gadjah Mada University. I recently graduated from SMA N 2 Purwokerto and possess strong skills in organizational management and communication. I have a keen interest in mathematics, physics, and geology, and I am highly curious about these fields
 
+<p>
+  <div>
+<details>
+  <summary>🧑 More about me</summary>
+
+- 🔭 I’m currently on a journey to build **great** things
+
+- 🌱 I’m currently learning **everything** 🤓
+
+- 🤝 I’m looking for help with **finding projects to contribute to!**
+
+- 👨‍💻 All of my projects are available at [miaxu.co](https://www.linkedin.com/in/sergiogarciagamez/)
+
+- 💬 Ask me about **open source, web development, and community management**
+
+- 📫 Reach me out at **contact@miaxu.co**
+
+</details>
+</p>
+
 
 ### Now Playing 🎧
 
