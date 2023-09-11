@@ -50,5 +50,5 @@ Hello, I am Alfredo Rizqi Syahbana, an undergraduate student majoring in Geophys
 <br>
 
 <div align="center" width="500">
-<img src="https://ibb.co/mtb6GPM" alt="Bye!" width="800"/>
+<img src="https://i.ibb.co/zbQGrt0/Desain-tanpa-judul-9.png" alt="Bye!" width="800"/>
 </div>
