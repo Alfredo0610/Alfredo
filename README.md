@@ -24,7 +24,7 @@ Hello, I am Alfredo Rizqi Syahbana, an undergraduate student majoring in Geophys
 
 - 💬 Ask me about **open source, web development, and community management**
 
-- 📫 Reach me out at **contact@miaxu.co**
+- 📫 Reach me out at **alfredorizqisyahbana@mail.ugm.ac.id**
 
 </details>
 </p>
@@ -35,6 +35,7 @@ Hello, I am Alfredo Rizqi Syahbana, an undergraduate student majoring in Geophys
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31gvovr2hctsygvy65fkxlz3oxey&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31gvovr2hctsygvy65fkxlz3oxey&redirect=true)
 <br/>
 ---
+
 
 <p align="center">
 <br><br>
@@ -47,3 +48,7 @@ Hello, I am Alfredo Rizqi Syahbana, an undergraduate student majoring in Geophys
 
 <br>
 <br>
+
+<div align="center">
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fgold-footer&psig=AOvVaw1SZOl-WqtYOVES3dDvINLv&ust=1694500893053000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLC6k-_5oYEDFQAAAAAdAAAAABAd
+</div>
