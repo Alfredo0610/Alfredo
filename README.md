@@ -8,6 +8,7 @@
 
 <div align="center" width="50">
 <img src="https://im4.ezgif.com/tmp/ezgif-4-f59b24235c.gif" alt="Welcome!" width="300"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=05A53E&width=435&lines=Undergraduate+student+of+Geophysics;Good+at+organizational+management;Highly+curious+in+Maths%2C+Physics%2C+%26+Geo" width="300"/>
 </div>
 
 <p align="center">
@@ -42,7 +43,7 @@ Hello, I am Alfredo Rizqi Syahbana, an undergraduate student majoring in Geophys
 
 
 <p align="center">
-<br><br>
+Let's connect ☕
   · <a href="https://drive.google.com/file/d/1QEZOD2A36o1wfUW74cgdizu8XODOjGVE/view?usp=sharing">Resume</a>
  · 
 <br>
