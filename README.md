@@ -20,7 +20,7 @@ Hello, I am Alfredo Rizqi Syahbana, an undergraduate student majoring in Geophys
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
-- 👨‍💻 All of my projects are available at [miaxu.co](https://www.linkedin.com/in/sergiogarciagamez/)
+- 👨‍💻 All of my projects are available at [Linkedin](https://www.linkedin.com/in/alfredo-rizqi-syahbana-02aa05246/)
 
 - 💬 Ask me about **open source, web development, and community management**
 
@@ -30,7 +30,7 @@ Hello, I am Alfredo Rizqi Syahbana, an undergraduate student majoring in Geophys
 </p>
 
 
-### Now Playing 🎧
+### Now Playing on my <a href="https://open.spotify.com/user/31gvovr2hctsygvy65fkxlz3oxey?si=699b00c3b6654236">Spotify</a>🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31gvovr2hctsygvy65fkxlz3oxey&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31gvovr2hctsygvy65fkxlz3oxey&redirect=true)
 <br/>
